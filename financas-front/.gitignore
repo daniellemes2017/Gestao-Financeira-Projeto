@@ -35,3 +35,9 @@ yarn-error.log*
 
 # local .env files
 .env.local*
+
+# Ignorar arquivos de variáveis de ambiente e outras configurações locais
+.env
+.npmrc
+.editorconfig
+.vscode/
