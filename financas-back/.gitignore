@@ -1,0 +1,25 @@
+# Dependências de Node.js
+node_modules/
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do editor de código
+.vscode/
+.idea/
+
+# Compilados Typescript
+*.tsbuildinfo
+
+# Outros
+coverage/
